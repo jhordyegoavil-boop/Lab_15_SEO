@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://sem15-tecsup.netlify.app/
+Sitemap: https://sem15-tecsup.netlify.app/sitemap.xml
